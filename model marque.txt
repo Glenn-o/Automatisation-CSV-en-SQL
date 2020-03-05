@@ -1,0 +1,7 @@
+fk_model_marque(1) = femme 
+fk_model_marque(2) = homme 
+fk_model_marque(3) = nouveautés
+
+fk_marque(1) = hugo boss
+fk_marque(2) = lacoste 
+fk_marque(3) = escada 
